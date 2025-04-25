@@ -1,0 +1,1051 @@
+[
+  {
+    "id": 1,
+    "title": "Implement search feature optimizations",
+    "description": "Research best practices for search feature optimizations.",
+    "priority": "high",
+    "status": "done",
+    "dueDate": "2025-03-08",
+    "createdAt": "2025-07-14",
+    "updatedAt": "2025-07-26",
+    "assignee": {
+      "id": 20,
+      "name": "User 13",
+      "email": "user6@example.com",
+      "role": "user",
+      "isActive": false
+    },
+    "tags": [
+      "research",
+      "backend",
+      "feature"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Design email notification system",
+    "description": "Implement new designs for email notification system based on Figma mockups.",
+    "priority": "high",
+    "status": "inProgress",
+    "dueDate": "2025-07-20",
+    "createdAt": "2025-07-08",
+    "updatedAt": "2025-02-03",
+    "assignee": {
+      "id": 7,
+      "name": "User 5",
+      "email": "user2@example.com",
+      "role": "user",
+      "isActive": false
+    },
+    "tags": [
+      "research",
+      "urgent",
+      "backend"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Test payment gateway integration",
+    "description": "Review and merge PRs affecting payment gateway integration.",
+    "priority": "medium",
+    "status": "inProgress",
+    "dueDate": "2025-07-01",
+    "createdAt": "2025-03-24",
+    "updatedAt": "2025-07-04",
+    "assignee": {
+      "id": 10,
+      "name": "User 7",
+      "email": "user15@example.com",
+      "role": "editor",
+      "isActive": true
+    },
+    "tags": [
+      "urgent"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Design email notification system",
+    "description": "Ensure email notification system works correctly across devices.",
+    "priority": "high",
+    "status": "todo",
+    "dueDate": "2025-03-13",
+    "createdAt": "2025-06-12",
+    "updatedAt": "2025-03-17",
+    "assignee": {
+      "id": 18,
+      "name": "User 1",
+      "email": "user17@example.com",
+      "role": "editor",
+      "isActive": false
+    },
+    "tags": [
+      "bug"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Implement payment gateway integration",
+    "description": "Refactor legacy code tied to payment gateway integration.",
+    "priority": "medium",
+    "status": "inProgress",
+    "dueDate": "2025-04-13",
+    "createdAt": "2025-06-04",
+    "updatedAt": "2025-03-03",
+    "assignee": {
+      "id": 19,
+      "name": "User 4",
+      "email": "user5@example.com",
+      "role": "editor",
+      "isActive": false
+    },
+    "tags": [
+      "urgent",
+      "enhancement"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Document API rate limiting",
+    "description": "Research best practices for API rate limiting.",
+    "priority": "medium",
+    "status": "done",
+    "dueDate": "2025-02-26",
+    "createdAt": "2025-06-25",
+    "updatedAt": "2025-05-21",
+    "assignee": {
+      "id": 13,
+      "name": "User 3",
+      "email": "user2@example.com",
+      "role": "editor",
+      "isActive": true
+    },
+    "tags": [
+      "research",
+      "feature",
+      "backend"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Deploy profile settings UI",
+    "description": "Perform QA testing on profile settings UI.",
+    "priority": "medium",
+    "status": "done",
+    "dueDate": "2025-03-09",
+    "createdAt": "2025-04-24",
+    "updatedAt": "2025-04-08",
+    "assignee": {
+      "id": 17,
+      "name": "User 6",
+      "email": "user10@example.com",
+      "role": "editor",
+      "isActive": true
+    },
+    "tags": [
+      "feature",
+      "enhancement"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Update payment gateway integration",
+    "description": "Improve performance and scalability of payment gateway integration.",
+    "priority": "medium",
+    "status": "done",
+    "dueDate": "2025-02-07",
+    "createdAt": "2025-05-05",
+    "updatedAt": "2025-07-11",
+    "assignee": {
+      "id": 3,
+      "name": "User 16",
+      "email": "user10@example.com",
+      "role": "editor",
+      "isActive": true
+    },
+    "tags": [
+      "research",
+      "feature"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Test admin dashboard analytics",
+    "description": "Research best practices for admin dashboard analytics.",
+    "priority": "high",
+    "status": "done",
+    "dueDate": "2025-05-12",
+    "createdAt": "2025-02-03",
+    "updatedAt": "2025-07-06",
+    "assignee": {
+      "id": 1,
+      "name": "User 4",
+      "email": "user14@example.com",
+      "role": "admin",
+      "isActive": true
+    },
+    "tags": [
+      "backend",
+      "research"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Review search feature optimizations",
+    "description": "Improve performance and scalability of search feature optimizations.",
+    "priority": "low",
+    "status": "todo",
+    "dueDate": "2025-02-08",
+    "createdAt": "2025-07-09",
+    "updatedAt": "2025-06-06",
+    "assignee": {
+      "id": 13,
+      "name": "User 14",
+      "email": "user4@example.com",
+      "role": "admin",
+      "isActive": false
+    },
+    "tags": [
+      "enhancement"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Refactor database migration scripts",
+    "description": "Implement new designs for database migration scripts based on Figma mockups.",
+    "priority": "medium",
+    "status": "todo",
+    "dueDate": "2025-03-22",
+    "createdAt": "2025-03-04",
+    "updatedAt": "2025-02-03",
+    "assignee": {
+      "id": 16,
+      "name": "User 7",
+      "email": "user5@example.com",
+      "role": "editor",
+      "isActive": true
+    },
+    "tags": [
+      "backend",
+      "urgent"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Update email notification system",
+    "description": "Implement new designs for email notification system based on Figma mockups.",
+    "priority": "high",
+    "status": "todo",
+    "dueDate": "2025-06-28",
+    "createdAt": "2025-06-16",
+    "updatedAt": "2025-03-11",
+    "assignee": {
+      "id": 9,
+      "name": "User 7",
+      "email": "user14@example.com",
+      "role": "user",
+      "isActive": false
+    },
+    "tags": [
+      "backend",
+      "enhancement",
+      "research"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Deploy payment gateway integration",
+    "description": "Refactor legacy code tied to payment gateway integration.",
+    "priority": "low",
+    "status": "todo",
+    "dueDate": "2025-04-21",
+    "createdAt": "2025-02-03",
+    "updatedAt": "2025-06-01",
+    "assignee": {
+      "id": 20,
+      "name": "User 11",
+      "email": "user15@example.com",
+      "role": "user",
+      "isActive": true
+    },
+    "tags": [
+      "enhancement",
+      "research"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Update user authentication flow",
+    "description": "Ensure user authentication flow works correctly across devices.",
+    "priority": "high",
+    "status": "done",
+    "dueDate": "2025-06-15",
+    "createdAt": "2025-05-19",
+    "updatedAt": "2025-06-27",
+    "assignee": {
+      "id": 8,
+      "name": "User 6",
+      "email": "user20@example.com",
+      "role": "admin",
+      "isActive": true
+    },
+    "tags": [
+      "bug",
+      "research"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Refactor profile settings UI",
+    "description": "Create detailed documentation for profile settings UI.",
+    "priority": "low",
+    "status": "inProgress",
+    "dueDate": "2025-06-16",
+    "createdAt": "2025-03-20",
+    "updatedAt": "2025-03-12",
+    "assignee": {
+      "id": 1,
+      "name": "User 9",
+      "email": "user10@example.com",
+      "role": "user",
+      "isActive": true
+    },
+    "tags": [
+      "research"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Test database migration scripts",
+    "description": "Create detailed documentation for database migration scripts.",
+    "priority": "high",
+    "status": "done",
+    "dueDate": "2025-02-10",
+    "createdAt": "2025-07-21",
+    "updatedAt": "2025-04-12",
+    "assignee": {
+      "id": 13,
+      "name": "User 4",
+      "email": "user11@example.com",
+      "role": "admin",
+      "isActive": false
+    },
+    "tags": [
+      "bug",
+      "backend"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Test checkout page responsiveness",
+    "description": "Perform QA testing on checkout page responsiveness.",
+    "priority": "medium",
+    "status": "todo",
+    "dueDate": "2025-06-17",
+    "createdAt": "2025-04-15",
+    "updatedAt": "2025-02-15",
+    "assignee": {
+      "id": 14,
+      "name": "User 5",
+      "email": "user4@example.com",
+      "role": "admin",
+      "isActive": false
+    },
+    "tags": [
+      "frontend",
+      "enhancement"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Document payment gateway integration",
+    "description": "Ensure payment gateway integration works correctly across devices.",
+    "priority": "high",
+    "status": "inProgress",
+    "dueDate": "2025-05-02",
+    "createdAt": "2025-04-16",
+    "updatedAt": "2025-07-20",
+    "assignee": {
+      "id": 6,
+      "name": "User 9",
+      "email": "user17@example.com",
+      "role": "admin",
+      "isActive": false
+    },
+    "tags": [
+      "urgent",
+      "frontend"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Document profile settings UI",
+    "description": "Fix bugs related to profile settings UI reported by QA.",
+    "priority": "high",
+    "status": "todo",
+    "dueDate": "2025-06-29",
+    "createdAt": "2025-03-04",
+    "updatedAt": "2025-07-23",
+    "assignee": {
+      "id": 3,
+      "name": "User 15",
+      "email": "user4@example.com",
+      "role": "user",
+      "isActive": true
+    },
+    "tags": [
+      "backend",
+      "bug"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Deploy database migration scripts",
+    "description": "Fix bugs related to database migration scripts reported by QA.",
+    "priority": "high",
+    "status": "todo",
+    "dueDate": "2025-06-02",
+    "createdAt": "2025-07-26",
+    "updatedAt": "2025-05-03",
+    "assignee": {
+      "id": 4,
+      "name": "User 18",
+      "email": "user3@example.com",
+      "role": "admin",
+      "isActive": false
+    },
+    "tags": [
+      "backend",
+      "bug"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Refactor payment gateway integration",
+    "description": "Research best practices for payment gateway integration.",
+    "priority": "low",
+    "status": "todo",
+    "dueDate": "2025-04-15",
+    "createdAt": "2025-02-23",
+    "updatedAt": "2025-07-08",
+    "assignee": {
+      "id": 10,
+      "name": "User 18",
+      "email": "user16@example.com",
+      "role": "editor",
+      "isActive": true
+    },
+    "tags": [
+      "research",
+      "enhancement"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Research email notification system",
+    "description": "Review and merge PRs affecting email notification system.",
+    "priority": "medium",
+    "status": "done",
+    "dueDate": "2025-06-10",
+    "createdAt": "2025-04-21",
+    "updatedAt": "2025-07-16",
+    "assignee": {
+      "id": 13,
+      "name": "User 11",
+      "email": "user11@example.com",
+      "role": "admin",
+      "isActive": false
+    },
+    "tags": [
+      "research",
+      "bug"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Deploy email notification system",
+    "description": "Perform QA testing on email notification system.",
+    "priority": "high",
+    "status": "todo",
+    "dueDate": "2025-03-30",
+    "createdAt": "2025-05-03",
+    "updatedAt": "2025-04-12",
+    "assignee": {
+      "id": 10,
+      "name": "User 12",
+      "email": "user2@example.com",
+      "role": "admin",
+      "isActive": false
+    },
+    "tags": [
+      "feature",
+      "bug"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Design database migration scripts",
+    "description": "Refactor legacy code tied to database migration scripts.",
+    "priority": "high",
+    "status": "todo",
+    "dueDate": "2025-04-29",
+    "createdAt": "2025-05-06",
+    "updatedAt": "2025-07-08",
+    "assignee": {
+      "id": 6,
+      "name": "User 5",
+      "email": "user3@example.com",
+      "role": "admin",
+      "isActive": true
+    },
+    "tags": [
+      "frontend",
+      "urgent"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Implement database migration scripts",
+    "description": "Improve performance and scalability of database migration scripts.",
+    "priority": "high",
+    "status": "done",
+    "dueDate": "2025-02-20",
+    "createdAt": "2025-05-13",
+    "updatedAt": "2025-02-01",
+    "assignee": {
+      "id": 13,
+      "name": "User 2",
+      "email": "user12@example.com",
+      "role": "admin",
+      "isActive": true
+    },
+    "tags": [
+      "bug",
+      "research",
+      "feature"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Test search feature optimizations",
+    "description": "Create detailed documentation for search feature optimizations.",
+    "priority": "high",
+    "status": "inProgress",
+    "dueDate": "2025-03-21",
+    "createdAt": "2025-05-25",
+    "updatedAt": "2025-07-16",
+    "assignee": {
+      "id": 8,
+      "name": "User 20",
+      "email": "user19@example.com",
+      "role": "admin",
+      "isActive": false
+    },
+    "tags": [
+      "bug"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Document payment gateway integration",
+    "description": "Create detailed documentation for payment gateway integration.",
+    "priority": "low",
+    "status": "inProgress",
+    "dueDate": "2025-03-07",
+    "createdAt": "2025-05-16",
+    "updatedAt": "2025-02-02",
+    "assignee": {
+      "id": 4,
+      "name": "User 12",
+      "email": "user15@example.com",
+      "role": "editor",
+      "isActive": false
+    },
+    "tags": [
+      "backend",
+      "enhancement"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Research email notification system",
+    "description": "Research best practices for email notification system.",
+    "priority": "low",
+    "status": "todo",
+    "dueDate": "2025-02-27",
+    "createdAt": "2025-03-08",
+    "updatedAt": "2025-02-27",
+    "assignee": {
+      "id": 6,
+      "name": "User 6",
+      "email": "user17@example.com",
+      "role": "user",
+      "isActive": true
+    },
+    "tags": [
+      "feature"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Review payment gateway integration",
+    "description": "Improve performance and scalability of payment gateway integration.",
+    "priority": "medium",
+    "status": "done",
+    "dueDate": "2025-07-02",
+    "createdAt": "2025-06-14",
+    "updatedAt": "2025-05-02",
+    "assignee": {
+      "id": 17,
+      "name": "User 19",
+      "email": "user14@example.com",
+      "role": "editor",
+      "isActive": false
+    },
+    "tags": [
+      "backend",
+      "urgent",
+      "frontend"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Research search feature optimizations",
+    "description": "Refactor legacy code tied to search feature optimizations.",
+    "priority": "low",
+    "status": "inProgress",
+    "dueDate": "2025-03-02",
+    "createdAt": "2025-04-21",
+    "updatedAt": "2025-06-07",
+    "assignee": {
+      "id": 11,
+      "name": "User 10",
+      "email": "user14@example.com",
+      "role": "editor",
+      "isActive": false
+    },
+    "tags": [
+      "enhancement",
+      "research",
+      "backend"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Research mobile app onboarding",
+    "description": "Fix bugs related to mobile app onboarding reported by QA.",
+    "priority": "medium",
+    "status": "inProgress",
+    "dueDate": "2025-05-28",
+    "createdAt": "2025-04-02",
+    "updatedAt": "2025-05-16",
+    "assignee": {
+      "id": 19,
+      "name": "User 1",
+      "email": "user7@example.com",
+      "role": "editor",
+      "isActive": false
+    },
+    "tags": [
+      "enhancement",
+      "urgent",
+      "frontend"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Update API rate limiting",
+    "description": "Perform QA testing on API rate limiting.",
+    "priority": "low",
+    "status": "done",
+    "dueDate": "2025-02-24",
+    "createdAt": "2025-06-12",
+    "updatedAt": "2025-07-11",
+    "assignee": {
+      "id": 14,
+      "name": "User 19",
+      "email": "user7@example.com",
+      "role": "admin",
+      "isActive": true
+    },
+    "tags": [
+      "bug",
+      "feature",
+      "backend"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Deploy API rate limiting",
+    "description": "Refactor legacy code tied to API rate limiting.",
+    "priority": "low",
+    "status": "todo",
+    "dueDate": "2025-05-09",
+    "createdAt": "2025-06-23",
+    "updatedAt": "2025-04-24",
+    "assignee": {
+      "id": 6,
+      "name": "User 12",
+      "email": "user2@example.com",
+      "role": "admin",
+      "isActive": true
+    },
+    "tags": [
+      "urgent",
+      "research"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Refactor API rate limiting",
+    "description": "Perform QA testing on API rate limiting.",
+    "priority": "high",
+    "status": "inProgress",
+    "dueDate": "2025-03-07",
+    "createdAt": "2025-04-29",
+    "updatedAt": "2025-04-24",
+    "assignee": {
+      "id": 8,
+      "name": "User 5",
+      "email": "user10@example.com",
+      "role": "admin",
+      "isActive": true
+    },
+    "tags": [
+      "enhancement",
+      "bug"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Update database migration scripts",
+    "description": "Research best practices for database migration scripts.",
+    "priority": "medium",
+    "status": "done",
+    "dueDate": "2025-07-10",
+    "createdAt": "2025-03-04",
+    "updatedAt": "2025-03-07",
+    "assignee": {
+      "id": 14,
+      "name": "User 5",
+      "email": "user19@example.com",
+      "role": "user",
+      "isActive": true
+    },
+    "tags": [
+      "enhancement"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Design admin dashboard analytics",
+    "description": "Research best practices for admin dashboard analytics.",
+    "priority": "low",
+    "status": "todo",
+    "dueDate": "2025-06-14",
+    "createdAt": "2025-05-14",
+    "updatedAt": "2025-07-19",
+    "assignee": {
+      "id": 8,
+      "name": "User 8",
+      "email": "user15@example.com",
+      "role": "admin",
+      "isActive": false
+    },
+    "tags": [
+      "backend",
+      "enhancement"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Test profile settings UI",
+    "description": "Fix bugs related to profile settings UI reported by QA.",
+    "priority": "low",
+    "status": "todo",
+    "dueDate": "2025-03-26",
+    "createdAt": "2025-07-22",
+    "updatedAt": "2025-06-22",
+    "assignee": {
+      "id": 12,
+      "name": "User 7",
+      "email": "user12@example.com",
+      "role": "editor",
+      "isActive": true
+    },
+    "tags": [
+      "backend"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Research API rate limiting",
+    "description": "Perform QA testing on API rate limiting.",
+    "priority": "low",
+    "status": "todo",
+    "dueDate": "2025-03-29",
+    "createdAt": "2025-02-11",
+    "updatedAt": "2025-07-19",
+    "assignee": {
+      "id": 2,
+      "name": "User 3",
+      "email": "user5@example.com",
+      "role": "editor",
+      "isActive": false
+    },
+    "tags": [
+      "frontend",
+      "bug"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Implement checkout page responsiveness",
+    "description": "Improve performance and scalability of checkout page responsiveness.",
+    "priority": "low",
+    "status": "inProgress",
+    "dueDate": "2025-05-26",
+    "createdAt": "2025-07-15",
+    "updatedAt": "2025-02-21",
+    "assignee": {
+      "id": 4,
+      "name": "User 16",
+      "email": "user10@example.com",
+      "role": "editor",
+      "isActive": false
+    },
+    "tags": [
+      "frontend",
+      "feature"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Test checkout page responsiveness",
+    "description": "Improve performance and scalability of checkout page responsiveness.",
+    "priority": "medium",
+    "status": "done",
+    "dueDate": "2025-06-26",
+    "createdAt": "2025-06-20",
+    "updatedAt": "2025-02-07",
+    "assignee": {
+      "id": 20,
+      "name": "User 6",
+      "email": "user6@example.com",
+      "role": "user",
+      "isActive": true
+    },
+    "tags": [
+      "frontend",
+      "urgent"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Review admin dashboard analytics",
+    "description": "Create detailed documentation for admin dashboard analytics.",
+    "priority": "medium",
+    "status": "done",
+    "dueDate": "2025-07-05",
+    "createdAt": "2025-03-18",
+    "updatedAt": "2025-04-07",
+    "assignee": {
+      "id": 13,
+      "name": "User 12",
+      "email": "user15@example.com",
+      "role": "user",
+      "isActive": false
+    },
+    "tags": [
+      "urgent",
+      "frontend"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Refactor checkout page responsiveness",
+    "description": "Fix bugs related to checkout page responsiveness reported by QA.",
+    "priority": "high",
+    "status": "done",
+    "dueDate": "2025-05-18",
+    "createdAt": "2025-03-16",
+    "updatedAt": "2025-06-24",
+    "assignee": {
+      "id": 1,
+      "name": "User 2",
+      "email": "user14@example.com",
+      "role": "user",
+      "isActive": false
+    },
+    "tags": [
+      "backend",
+      "enhancement",
+      "feature"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Research database migration scripts",
+    "description": "Deploy updated database migration scripts to staging environment.",
+    "priority": "high",
+    "status": "done",
+    "dueDate": "2025-02-23",
+    "createdAt": "2025-04-19",
+    "updatedAt": "2025-07-21",
+    "assignee": {
+      "id": 8,
+      "name": "User 12",
+      "email": "user19@example.com",
+      "role": "admin",
+      "isActive": true
+    },
+    "tags": [
+      "backend"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Deploy payment gateway integration",
+    "description": "Implement new designs for payment gateway integration based on Figma mockups.",
+    "priority": "high",
+    "status": "todo",
+    "dueDate": "2025-02-22",
+    "createdAt": "2025-07-14",
+    "updatedAt": "2025-05-19",
+    "assignee": {
+      "id": 10,
+      "name": "User 15",
+      "email": "user4@example.com",
+      "role": "admin",
+      "isActive": false
+    },
+    "tags": [
+      "enhancement"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Deploy checkout page responsiveness",
+    "description": "Review and merge PRs affecting checkout page responsiveness.",
+    "priority": "medium",
+    "status": "todo",
+    "dueDate": "2025-05-19",
+    "createdAt": "2025-07-28",
+    "updatedAt": "2025-04-17",
+    "assignee": {
+      "id": 2,
+      "name": "User 1",
+      "email": "user17@example.com",
+      "role": "user",
+      "isActive": true
+    },
+    "tags": [
+      "backend"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Deploy email notification system",
+    "description": "Deploy updated email notification system to staging environment.",
+    "priority": "low",
+    "status": "done",
+    "dueDate": "2025-06-17",
+    "createdAt": "2025-03-30",
+    "updatedAt": "2025-05-14",
+    "assignee": {
+      "id": 3,
+      "name": "User 8",
+      "email": "user9@example.com",
+      "role": "admin",
+      "isActive": false
+    },
+    "tags": [
+      "backend",
+      "feature",
+      "bug"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Document checkout page responsiveness",
+    "description": "Research best practices for checkout page responsiveness.",
+    "priority": "high",
+    "status": "todo",
+    "dueDate": "2025-02-20",
+    "createdAt": "2025-05-25",
+    "updatedAt": "2025-03-21",
+    "assignee": {
+      "id": 19,
+      "name": "User 2",
+      "email": "user2@example.com",
+      "role": "admin",
+      "isActive": true
+    },
+    "tags": [
+      "frontend",
+      "urgent"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Implement checkout page responsiveness",
+    "description": "Refactor legacy code tied to checkout page responsiveness.",
+    "priority": "high",
+    "status": "done",
+    "dueDate": "2025-04-01",
+    "createdAt": "2025-05-21",
+    "updatedAt": "2025-05-02",
+    "assignee": {
+      "id": 7,
+      "name": "User 2",
+      "email": "user2@example.com",
+      "role": "admin",
+      "isActive": false
+    },
+    "tags": [
+      "bug"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Fix payment gateway integration",
+    "description": "Deploy updated payment gateway integration to staging environment.",
+    "priority": "medium",
+    "status": "inProgress",
+    "dueDate": "2025-07-17",
+    "createdAt": "2025-04-20",
+    "updatedAt": "2025-06-23",
+    "assignee": {
+      "id": 10,
+      "name": "User 10",
+      "email": "user1@example.com",
+      "role": "admin",
+      "isActive": false
+    },
+    "tags": [
+      "enhancement",
+      "research",
+      "backend"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Refactor API rate limiting",
+    "description": "Deploy updated API rate limiting to staging environment.",
+    "priority": "high",
+    "status": "inProgress",
+    "dueDate": "2025-03-31",
+    "createdAt": "2025-06-03",
+    "updatedAt": "2025-05-25",
+    "assignee": {
+      "id": 3,
+      "name": "User 13",
+      "email": "user9@example.com",
+      "role": "user",
+      "isActive": false
+    },
+    "tags": [
+      "urgent"
+    ]
+  }
+]
